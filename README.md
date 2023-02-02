@@ -2,7 +2,7 @@
    
    Welcome to my world 🌐, I am a Software Engineer(mostly into Frontend Technologies🤭)💻 passionate about creating the best interface and user experience for all users 🌈.
     
-    - 🚀 I dabble and work with Vue, Nuxt, React , Javascript, CSS, HTML🔥 ...
+   - 🚀 I dabble and work with Vue, Nuxt, React , Javascript, CSS, HTML🔥 ...
    
    - 💡 Currently expanding my knowledge on Javascript ⚡
    

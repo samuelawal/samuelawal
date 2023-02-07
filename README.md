@@ -1,4 +1,4 @@
-                                                    👋 Holla, I am Samuel 😇.
+     👋 Holla, I am Samuel 😇.                                               
    
    Welcome to my world 🌐, I am a Software Engineer(mostly into Frontend Technologies🤭)💻 passionate about creating the best interface and user experience for all users 🌈.
     
